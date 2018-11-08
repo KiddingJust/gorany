@@ -6,7 +6,6 @@ public class onemoreclass {
 
 			String crow ="가익이가 까악까악을 싫어합니다.";
 
-
 	}
 	
 
